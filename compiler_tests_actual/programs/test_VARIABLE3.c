@@ -1,0 +1,44 @@
+int many_variables()
+{
+	int var01 = 1;
+	int var02 = 2 + var01;
+	int var03 = 3 + var02;
+	int var04 = 4 + var03;
+	int var05 = 5 + var04;
+	int var06 = 6 + var05;
+	int var07 = 7 + var06;
+	int var08 = 8 + var07;
+	int var09 = 9 + var08;
+	int var10 = 10 + var09;
+	int var11 = 11 + var10;
+	int var12 = 12 + var11;
+	int var13 = 13 + var12;
+	int var14 = 14 + var13;
+	int var15 = 15 + var14;
+	int var16 = 16 + var15;
+	int var17 = 17 + var16;
+	int var18 = 18 + var17;
+	int var19 = 19 + var18;
+	int var20 = 20 + var19;
+	int var21 = 21 + var20;
+	int var22 = 22 + var21;
+	int var23 = 23 + var22;
+	int var24 = 24 + var23;
+	int var25 = 25 + var24;
+	int var26 = 26 + var25;
+	int var27 = 27 + var26;
+	int var28 = 28 + var27;
+	int var29 = 29 + var28;
+	int var30 = 30 + var29;
+	int var31 = 31 + var30;
+	int var32 = 32 + var31;
+	int var33 = 33 + var32;
+	int var34 = 34 + var33;
+	int var35 = 35 + var34;
+	int var36 = 36 + var35;
+	int var37 = 37 + var36;
+	int var38 = 38 + var37;
+	int var39 = 39 + var38;
+	int var40 = 40 + var39;
+	return var02 + var40;
+}
